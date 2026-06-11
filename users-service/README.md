@@ -1,7 +1,7 @@
 # Participantes
 Isabela Fernandes Lopes  
 Letícia Batista Rocha  
-Yan Victor Gomes  
+Yan Victor Gomes   
 
 # users-service
 
