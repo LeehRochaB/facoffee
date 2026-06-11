@@ -1,3 +1,8 @@
+# Participantes
+Isabela Fernandes Lopes
+Letícia Batista Rocha
+Yan Victor Gomes
+
 # users-service
 
 Serviço responsável pelo domínio de usuários da aplicação FACOFFEE — sistema para divisão de custos da copa da FACOM/UFMS.
@@ -262,7 +267,7 @@ users-service/
 |--------|-----|-------------|
 | API Gateway | http://localhost:8000 | — |
 | Keycloak | http://localhost:8080 | facoffee / facoffee |
-| RabbitMQ | http://localhost:15672 | guest / guest |
+| RabbitMQ | http://localhost:15672 | facoffee / facoffee |
 | Mailpit | http://localhost:8025 | — |
 
 ---
