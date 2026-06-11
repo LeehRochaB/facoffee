@@ -273,7 +273,7 @@ Este serviço segue o padrão:
 
 Decomposition by Business Capability
 
-Cada microsserviço:
+O microsserviço:
 
 - possui banco próprio
 - encapsula domínio isolado
